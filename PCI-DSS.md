@@ -21,7 +21,7 @@ The assessment evaluated the Cardholder Data Environment supporting MidTech Reta
 - [ ] Centralized logging and backup systems which expand PCI DSS scope due to potential exposure to payment related data.
 
 ### Overall Risk Rating
-[ ] Low | [ ] Medium | [ ] High | [ ] Critical
+[ ] Low | [ ] Medium | [X] High | [ ] Critical
 
 ---
 
